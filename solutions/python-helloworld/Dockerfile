@@ -1,4 +1,4 @@
-FROM python:3.9
+FROM python:3.8
 LABEL maintainer="Haikal Shiddiq - 2021"
 
 COPY . /app
