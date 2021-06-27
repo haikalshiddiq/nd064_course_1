@@ -2,4 +2,4 @@
 
 Udacity SUSE Clound Native Program Scholarship
 
-# May 2021-August 2021.
+# May 2021-August 2021
